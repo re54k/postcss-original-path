@@ -1,0 +1,25 @@
+{
+  "name": "postcss-original-path",
+  "version": "0.0.2",
+  "description": "Restore the original path which injected by webpack loaders, so that can use 'css.source.input.file' as normal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/re54k/postcss-original-path.git"
+  },
+  "keywords": [
+    "postcss",
+    "webpack",
+    "path",
+    "loader"
+  ],
+  "author": "re54k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/re54k/postcss-original-path/issues"
+  },
+  "homepage": "https://github.com/re54k/postcss-original-path#readme"
+}
